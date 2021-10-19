@@ -40,7 +40,7 @@ Below are recommendations to address some of the disparities among city types an
  1. Further analyze weekly trends to align driver schedules.  For example, as shown above, there was a peak for all city types during the third week of February, followed by a lull the end of February.  Assuming these trends correlate with rider demand, schedule additional drivers during the "peak weeks" and fewer drivers during the lull times.
 ___
 ## Resources
-_Data Sources_: 
+_Data Sources_: https://github.com/SJLewer/PyBer_Analysis/tree/main/Resources
 
 _Python 3.7.6 Script: 
 
