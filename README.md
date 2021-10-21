@@ -27,7 +27,7 @@ _Average Fare per Driver_: Drivers in rural areas produced the highest average f
  
  _Total Fare by City Type_: The graph below shows the trends of weekly fares between January-April 2019.  In late February, all three city types experienced a peak in total fares generated. During March, suburban and rural total fares generated week-to-week were fairly steady, whereas the weekly fares for urban cities were volatile.
  
-![PyBer_fare_summary](https://user-images.githubusercontent.com/90986041/138193699-d1af4950-0d5e-41b0-898f-66b0085fd585.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/90986041/138196074-d88263e2-4bfb-46e1-852d-cf52d5208973.png)
 
 ## Summary/Recommendations:
 Below are recommendations to address some of the disparities among city types and improve profits.
